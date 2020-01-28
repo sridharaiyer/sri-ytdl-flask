@@ -17,6 +17,7 @@ cffi = "*"
 pillow = "*"
 flask-bcrypt = "*"
 youtube-dl = "*"
+pafy = "*"
 
 [requires]
 python_version = "3.6"
